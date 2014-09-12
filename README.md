@@ -36,3 +36,8 @@ Highlevel User stories:
 ![Wire Frames - Sort+QuickActions ](Sort+QuickActions.JPG)
 ![Wire Frames - Share+Activities+LeftNavMenu](Share+Activities+LeftNavMenu.JPG)
 ![Wire Frames - Profile+LogIn](Profile+LogIn.JPG)
+
+NOTES
+=======
+
+backend: `http://video.stage.media.yql.yahoo.com/v1/video/events?dev_type=int`
