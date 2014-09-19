@@ -19,7 +19,7 @@ Highlevel User stories:
   * -- Take user to event specific actions from the event list(search or sort resultset).
   * Share 
   * -- Navigate user to share event page to thirdparty social medium.
-  * Album
+  * Photos
   * -- Displays picture of live show from web
   * Tweets
   * -- Tweets of the live event
